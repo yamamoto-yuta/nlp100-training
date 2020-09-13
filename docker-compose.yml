@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  latest:
+    build: .
+    image: template/python/jupyter-lab/jl-custom
+    container_name: template_python_jupyter-lab_jl-custom
+    environment:
+      TZ: Asia/Tokyo
+    ports:
+      - 8888:8888
+    volumes:
+      - ./:/home/
+    tty: true
