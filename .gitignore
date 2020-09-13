@@ -1,0 +1,12 @@
+.bash_history
+.cache/
+.config/
+.ipython/
+.jupyter/
+.local/
+.npm/
+.python_history
+.viminfo
+
+__pycache__/
+.ipynb_checkpoints/
