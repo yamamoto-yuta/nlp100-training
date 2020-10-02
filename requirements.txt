@@ -1,9 +1,0 @@
-# Editor
-jupyterlab
-
-# Libraries
-## Utils
-numpy
-pandas
-tqdm
-
