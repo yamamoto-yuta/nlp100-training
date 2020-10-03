@@ -1,6 +1,6 @@
 # 言語処理100本ノック2020を解くリポジトリ
 
-- 問題文: [言語処理100本ノック 2020 (Rev 1)](https://qiita.com/yamaru/items/0cac24710626333bd693)
+- 問題文: [言語処理100本ノック 2020 (Rev 1)](https://nlp100.github.io/ja/)
 - 解答例: [【言語処理100本ノック 2020】Pythonによる解答例まとめ](https://qiita.com/yamaru/items/0cac24710626333bd693)
 
 # 回答
